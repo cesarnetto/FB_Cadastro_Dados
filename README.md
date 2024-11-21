@@ -6,10 +6,8 @@ O objetivo do FB é receber dados de entrada, armazená-los em variáveis intern
 
 ## Requisitor
 
-  1. Software
-    - TIA Portal V15.1
-  2. Hardware
-    - PLC S7-1500
+-  Software: TIA Portal V15.1
+-  Hardware: PLC S7-1500
 
 ## Estrutura do Projeto
 
